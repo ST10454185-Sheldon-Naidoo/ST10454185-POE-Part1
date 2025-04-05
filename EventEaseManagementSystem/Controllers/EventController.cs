@@ -22,7 +22,7 @@ namespace EventEaseManagementSystem.Controllers
         // GET: Event
         public async Task<IActionResult> Index()
         {
-            var eventEaseDBContext = _context.Events.Include(@ => @.Venue);
+            var eventEaseDBContext = _context.Events.Include(e => e.Venue);
             return View(await eventEaseDBContext.ToListAsync());
         }
 
@@ -35,7 +35,7 @@ namespace EventEaseManagementSystem.Controllers
             }
 
             var @event = await _context.Events
-                .Include(@ => @.Venue)
+                .Include(e => e.Venue)
                 .FirstOrDefaultAsync(m => m.EventId == id);
             if (@event == null)
             {
@@ -131,7 +131,7 @@ namespace EventEaseManagementSystem.Controllers
             }
 
             var @event = await _context.Events
-                .Include(@ => @.Venue)
+                .Include(e => e.Venue)
                 .FirstOrDefaultAsync(m => m.EventId == id);
             if (@event == null)
             {
