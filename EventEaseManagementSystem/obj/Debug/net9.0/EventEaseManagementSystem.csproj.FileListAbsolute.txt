@@ -213,7 +213,6 @@ C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE-Part1\EventEaseManagementSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EventEaseManagementSystem.props
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE-Part1\EventEaseManagementSystem\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EventEaseManagementSystem.props
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE-Part1\EventEaseManagementSystem\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE-Part1\EventEaseManagementSystem\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE-Part1\EventEaseManagementSystem\obj\Debug\net9.0\EventEas.174BEE69.Up2Date
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE-Part1\EventEaseManagementSystem\obj\Debug\net9.0\EventEaseManagementSystem.dll
 C:\Sheldons Uni work\COMPUTER SCIENCE\YEAR 2\CLDV6211\ST10454185_CLDV6211_Part1\ST10454185-POE-Part1\EventEaseManagementSystem\obj\Debug\net9.0\refint\EventEaseManagementSystem.dll
