@@ -12,6 +12,11 @@ namespace EventEaseManagementSystem
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            // Code Attribution
+            // This method is adapted from Microsoft
+            // https://learn.microsoft.com/en-us/ef/core/miscellaneous/connection-strings?tabs=dotnet-core-cli
+            // Microsoft
+
             // Register database context
             builder.Services.AddDbContext<EventEaseDBContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("LiveConnect")));
